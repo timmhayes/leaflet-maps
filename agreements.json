@@ -1,0 +1,414 @@
+[
+  {
+    "title": "North American Free Trade Agreement (NAFTA)",
+    "abbr": "NAFTA",
+    "description": "A comprehensive trade agreement that includes the United States, Canada, and Mexico. NAFTA went into effect on January 1, 1994.",
+    "countries": [
+      {
+        "code": "CAN",
+        "name": "Canada"
+      },
+      {
+        "code": "MEX",
+        "name": "Mexico"
+      },
+      {
+        "code": "USA",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Central America-Dominican Republic Free Trade Agreement (CAFTA-DR)",
+    "abbr": "CAFTA-DR",
+    "description": "A trade agreement between the United States and several Central American countries, as well as the Dominican Republic. It entered into force in various stages starting in 2006.",
+    "countries": [
+      {
+        "code": "CRI",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "DOM",
+        "name": "Dominican Republic"
+      },
+      {
+        "code": "SLV",
+        "name": "El Salvador"
+      },
+      {
+        "code": "GTM",
+        "name": "Guatemala"
+      },
+      {
+        "code": "HND",
+        "name": "Honduras"
+      },
+      {
+        "code": "NIC",
+        "name": "Nicaragua"
+      },
+      {
+        "code": "PAN",
+        "name": "Panama"
+      },
+      {
+        "code": "USA",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Andean Community",
+    "abbr": "Andean Community",
+    "description": "A trade bloc comprising four Andean countries: Bolivia, Colombia, Ecuador, and Peru. The Andean Community was established on August 16, 1969.",
+    "countries": [
+      {
+        "code": "BOL",
+        "name": "Bolivia"
+      },
+      {
+        "code": "COL",
+        "name": "Colombia"
+      },
+      {
+        "code": "ECU",
+        "name": "Ecuador"
+      },
+      {
+        "code": "PER",
+        "name": "Peru"
+      }
+    ]
+  },
+  {
+    "title": "Caribbean Community (CARICOM)",
+    "abbr": "CARICOM",
+    "description": "A regional organization of Caribbean nations established on July 4, 1973. CARICOM aims to promote economic integration and cooperation among its member states.",
+    "countries": [
+      {
+        "code": "ATG",
+        "name": "Antigua and Barbuda"
+      },
+      {
+        "code": "BHS",
+        "name": "The Bahamas"
+      },
+      {
+        "code": "BRB",
+        "name": "Barbados"
+      },
+      {
+        "code": "BLZ",
+        "name": "Belize"
+      },
+      {
+        "code": "DMA",
+        "name": "Dominica"
+      },
+      {
+        "code": "GRD",
+        "name": "Grenada"
+      },
+      {
+        "code": "GUY",
+        "name": "Guyana"
+      },
+      {
+        "code": "JAM",
+        "name": "Jamaica"
+      },
+      {
+        "code": "KNA",
+        "name": "Saint Kitts and Nevis"
+      },
+      {
+        "code": "LCA",
+        "name": "Saint Lucia"
+      },
+      {
+        "code": "VCT",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      {
+        "code": "TTO",
+        "name": "Trinidad and Tobago"
+      },
+      {
+        "code": "SUR",
+        "name": "Suriname"
+      },
+      {
+        "code": "HAI",
+        "name": "Haiti"
+      },
+      {
+        "code": "DOM",
+        "name": "Dominican Republic"
+      }
+    ]
+  },
+  {
+    "title": "Mercosur",
+    "abbr": "Mercosur",
+    "description": "A South American trade bloc established on March 26, 1991, comprising Argentina, Brazil, Paraguay, and Uruguay.",
+    "countries": [
+      {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      {
+        "code": "PRY",
+        "name": "Paraguay"
+      },
+      {
+        "code": "URY",
+        "name": "Uruguay"
+      }
+    ]
+  },
+  {
+    "title": "Free Trade Area of the Americas (FTAA)",
+    "abbr": "FTAA",
+    "description": "A proposed trade agreement that aimed to create a free trade area in the Americas, covering 34 countries. Negotiations began in 1994 but the agreement was not finalized.",
+    "countries": [
+      {
+        "code": "ATG",
+        "name": "Antigua and Barbuda"
+      },
+      {
+        "code": "ARG",
+        "name": "Argentina"
+      },
+      {
+        "code": "BHS",
+        "name": "Bahamas"
+      },
+      {
+        "code": "BRB",
+        "name": "Barbados"
+      },
+      {
+        "code": "BLZ",
+        "name": "Belize"
+      },
+      {
+        "code": "BOL",
+        "name": "Bolivia"
+      },
+      {
+        "code": "BRA",
+        "name": "Brazil"
+      },
+      {
+        "code": "CAN",
+        "name": "Canada"
+      },
+      {
+        "code": "CHL",
+        "name": "Chile"
+      },
+      {
+        "code": "COL",
+        "name": "Colombia"
+      },
+      {
+        "code": "CRI",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "DMA",
+        "name": "Dominica"
+      },
+      {
+        "code": "DOM",
+        "name": "Dominican Republic"
+      },
+      {
+        "code": "ECU",
+        "name": "Ecuador"
+      },
+      {
+        "code": "SLV",
+        "name": "El Salvador"
+      },
+      {
+        "code": "GRD",
+        "name": "Grenada"
+      },
+      {
+        "code": "GTM",
+        "name": "Guatemala"
+      },
+      {
+        "code": "GUY",
+        "name": "Guyana"
+      },
+      {
+        "code": "HTI",
+        "name": "Haiti"
+      },
+      {
+        "code": "HND",
+        "name": "Honduras"
+      },
+      {
+        "code": "JAM",
+        "name": "Jamaica"
+      },
+      {
+        "code": "MEX",
+        "name": "Mexico"
+      },
+      {
+        "code": "NIC",
+        "name": "Nicaragua"
+      },
+      {
+        "code": "PAN",
+        "name": "Panama"
+      },
+      {
+        "code": "PRY",
+        "name": "Paraguay"
+      },
+      {
+        "code": "PER",
+        "name": "Peru"
+      },
+      {
+        "code": "KNA",
+        "name": "Saint Kitts and Nevis"
+      },
+      {
+        "code": "LCA",
+        "name": "Saint Lucia"
+      },
+      {
+        "code": "VCT",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      {
+        "code": "SUR",
+        "name": "Suriname"
+      },
+      {
+        "code": "TTO",
+        "name": "Trinidad and Tobago"
+      },
+      {
+        "code": "USA",
+        "name": "United States"
+      },
+      {
+        "code": "URY",
+        "name": "Uruguay"
+      },
+      {
+        "code": "VEN",
+        "name": "Venezuela"
+      }
+    ]
+    
+  },
+  {
+    "title": "United States-Mexico-Canada Agreement (USMCA)",
+    "abbr": "USMCA",
+    "description": "An updated trade agreement that replaced NAFTA and includes the United States, Canada, and Mexico. USMCA went into effect on July 1, 2020.",
+    "countries": [
+      {
+        "code": "CAN",
+        "name": "Canada"
+      },
+      {
+        "code": "MEX",
+        "name": "Mexico"
+      },
+      {
+        "code": "USA",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Pacific Alliance",
+    "abbr": "Pacific Alliance",
+    "description": "A regional trade bloc in Latin America, founded on April 28, 2011, by Chile, Colombia, Mexico, and Peru.",
+    "countries": [
+      {
+        "code": "CHL",
+        "name": "Chile"
+      },
+      {
+        "code": "COL",
+        "name": "Colombia"
+      },
+      {
+        "code": "MEX",
+        "name": "Mexico"
+      },
+      {
+        "code": "PER",
+        "name": "Peru"
+      }
+    ]
+  },
+  {
+    "title": "Canada-Chile Free Trade Agreement",
+    "abbr": "CCFTA",
+    "description": "A bilateral trade agreement between Canada and Chile that entered into force on July 5, 1997.",
+    "countries": [
+      {
+        "code": "CAN",
+        "name": "Canada"
+      },
+      {
+        "code": "CHL",
+        "name": "Chile"
+      }
+    ]
+  },
+  {
+    "title": "Dominican Republic-Central America Free Trade Agreement (DR-CAFTA)",
+    "abbr": "DR-CAFTA",
+    "description": "A trade agreement between the United States and several Central American countries, as well as the Dominican Republic. It entered into force in various stages starting in 2006.",
+    "countries": [
+      {
+        "code": "CRI",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "DOM",
+        "name": "Dominican Republic"
+      },
+      {
+        "code": "SLV",
+        "name": "El Salvador"
+      },
+      {
+        "code": "GTM",
+        "name": "Guatemala"
+      },
+      {
+        "code": "HND",
+        "name": "Honduras"
+      },
+      {
+        "code": "NIC",
+        "name": "Nicaragua"
+      },
+      {
+        "code": "PAN",
+        "name": "Panama"
+      },
+      {
+        "code": "USA",
+        "name": "United States"
+      }
+    ]
+  }
+]
+  
